@@ -404,6 +404,15 @@ padding: 0;}
 
 
 /* on screen resize */
+.later{
+  background: linear-gradient(to bottom , royalblue,skyblue);
+  margin-left:5% ;
+  height: 100vh;
+  text-align: center;
+}
+.later h1{
+  color: magenta;
+}
 .cus_arr{
   display: none;
 }
